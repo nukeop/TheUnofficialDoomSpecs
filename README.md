@@ -145,72 +145,72 @@ APPENDICES
 5. [Other helpful documents][A-5]
 6. [Acknowledgments][A-6]
 
-[1]: ../master/README.md
-[1-1]: ../master/README.md
-[1-2]: ../master/README.md
+[1]: ../master/Chapter1.md
+[1-1]: ../master/Chapter1.md
+[1-2]: ../master/Chapter1.md
 
 
-[2]: ../master/README.md
-[2-1]: ../master/README.md
-[2-2]: ../master/README.md
-[2-3]: ../master/README.md
+[2]: ../master/Chapter2.md
+[2-1]: ../master/Chapter2.md
+[2-2]: ../master/Chapter2.md
+[2-3]: ../master/Chapter2.md
 
-[3]: ../master/README.md
+[3]: ../master/Chapter3.md
 
-[4]: ../master/README.md
-[4-1]: ../master/README.md
-[4-2]: ../master/README.md
-[4-2-1]: ../master/README.md
-[4-2-2]: ../master/README.md
-[4-2-3]: ../master/README.md
-[4-3]: ../master/README.md
-[4-3-1]: ../master/README.md
-[4-3-2]: ../master/README.md
-[4-4]: ../master/README.md
-[4-5]: ../master/README.md
-[4-6]: ../master/README.md
-[4-7]: ../master/README.md
-[4-8]: ../master/README.md
-[4-9]: ../master/README.md
-[4-9-1]: ../master/README.md
-[4-10]: ../master/README.md
-[4-11]: ../master/README.md
+[4]: ../master/Chapter4.md
+[4-1]: ../master/Chapter4.md
+[4-2]: ../master/Chapter4.md
+[4-2-1]: ../master/Chapter4.md
+[4-2-2]: ../master/Chapter4.md
+[4-2-3]: ../master/Chapter4.md
+[4-3]: ../master/Chapter4.md
+[4-3-1]: ../master/Chapter4.md
+[4-3-2]: ../master/Chapter4.md
+[4-4]: ../master/Chapter4.md
+[4-5]: ../master/Chapter4.md
+[4-6]: ../master/Chapter4.md
+[4-7]: ../master/Chapter4.md
+[4-8]: ../master/Chapter4.md
+[4-9]: ../master/Chapter4.md
+[4-9-1]: ../master/Chapter4.md
+[4-10]: ../master/Chapter4.md
+[4-11]: ../master/Chapter4.md
 
-[5]: ../master/README.md
-[5-1]: ../master/README.md
+[5]: ../master/Chapter5.md
+[5-1]: ../master/Chapter5.md
 
-[6]: ../master/README.md
-[6-1]: ../master/README.md
+[6]: ../master/Chapter6.md
+[6-1]: ../master/Chapter6.md
 
-[7]: ../master/README.md
-[7-1]: ../master/README.md
-[7-2]: ../master/README.md
-[7-3]: ../master/README.md
-[7-4]: ../master/README.md
-[7-5]: ../master/README.md
+[7]: ../master/Chapter7.md
+[7-1]: ../master/Chapter7.md
+[7-2]: ../master/Chapter7.md
+[7-3]: ../master/Chapter7.md
+[7-4]: ../master/Chapter7.md
+[7-5]: ../master/Chapter7.md
 
-[8]: ../master/README.md
-[8-1]: ../master/README.md
-[8-2]: ../master/README.md
-[8-3]: ../master/README.md
-[8-4]: ../master/README.md
-[8-4-1]: ../master/README.md
-[8-4-2]: ../master/README.md
-[8-5]: ../master/README.md
-[8-6]: ../master/README.md
-[8-6-1]: ../master/README.md
+[8]: ../master/Chapter8.md
+[8-1]: ../master/Chapter8.md
+[8-2]: ../master/Chapter8.md
+[8-3]: ../master/Chapter8.md
+[8-4]: ../master/Chapter8.md
+[8-4-1]: ../master/Chapter8.md
+[8-4-2]: ../master/Chapter8.md
+[8-5]: ../master/Chapter8.md
+[8-6]: ../master/Chapter8.md
+[8-6-1]: ../master/Chapter8.md
 
-[9]: ../master/README.md
+[9]: ../master/Chapter9.md
 
-[10]: ../master/README.md
-[10-1]: ../master/README.md
-[10-2]: ../master/README.md
-[10-3]: ../master/README.md
+[10]: ../master/Chapter10.md
+[10-1]: ../master/Chapter10.md
+[10-2]: ../master/Chapter10.md
+[10-3]: ../master/Chapter10.md
 
 
-[A-1]: ../master/README.md
-[A-2]: ../master/README.md
-[A-3]: ../master/README.md
-[A-4]: ../master/README.md
-[A-5]: ../master/README.md
-[A-6]: ../master/README.md
+[A-1]: ../master/A-1.md
+[A-2]: ../master/A-2.md
+[A-3]: ../master/A-3.md
+[A-4]: ../master/A-4.md
+[A-5]: ../master/A-5.md
+[A-6]: ../master/A-6.md
