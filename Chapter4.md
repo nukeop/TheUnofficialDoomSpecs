@@ -23,7 +23,7 @@ Each thing is ten bytes, consisting of five (integer) fields:
 4. Type of thing, see next subsection, [4-2-1]
 5. Attributes of thing, see [4-2-2]
 
-### [4-2-1]: Thing Types
+### \[4-2-1]: Thing Types
 Bytes 6-7 of each thing are an integer which specifies its kind:
 
 ```
@@ -173,7 +173,7 @@ Dec. Hex   RAD   HT  SPD       Thing or class of things:
 54   0036   32   16            large brown tree
 ```
 
-### [4-2-2]: Thing attributes
+### \[4-2-2]: Thing attributes
 The last two bytes of a THING control a few attributes, according to which bits are set:
 
 ```
@@ -189,7 +189,7 @@ The skill settings are most used with the monsters, of course...the most common 
 
 "deaf guard" only has meaning for monsters, who will not attack until they see a player if they are deaf. Otherwise, they will activate when they hear gunshots, etc (including the punch!). Sound does not travel through solid walls (walls that are solid at the time of the noise). Also, lines can be set so that sound does not pass through them (see [4-3-1] bit 6). This attribute is also known as the "ambush" attribute.
 
-## [4-3]: LINEDEFS
+## \[4-3]: LINEDEFS
 Each linedef represents a line from one of the `VERTEXES` to another, and each is 14 bytes, containing 7 (integer) fields:
 
 1. from the `VERTEX` with this number (the first vertex is 0).
@@ -212,7 +212,7 @@ Each linedef represents a line from one of the `VERTEXES` to another, and each i
 
 **IMPORTANT**: All lines must have a right side. If it is a one-sided line, then it must go the proper direction, so its single side is facing the sector it is part of.
 
-### [4-3-1]: Linedef Attributes
+### \[4-3-1]: Linedef Attributes
 The third field of each linedef is an integer which controls that line's attributes with bits, as follows:
 
 ```
@@ -262,7 +262,7 @@ bits 9-15 are unused, *EXCEPT* for a large section of e2m7, where every wall on 
 
 Another rare value used in some of the linedef's attribute fields is ZERO. It occurs only on one-sided walls, where it makes no difference whether or not the impassibility bit (bit 0) is set. Still, it seems to indicate a minor glitch in the `DOOM-CAD` editor (on the NExT), I suppose.
 
-### [4-3-2]: Linedef Types
+### \[4-3-2]: Linedef Types
 The integers in field 4 of a linedef control various special effects, mostly to do with what happens to a triggered SECTOR when the line is crossed or activated by a player.
 
 Except for the ones marked `DOOR`, the end-level switches, and the special type 48 (hex 30), all these effects need trigger/tag numbers. Then any and all sectors whose last field contains the same trigger number are affected when the linedef's function is activated.
@@ -558,7 +558,7 @@ Each is 26 bytes, comprising 2 (integer) fields, then 2 (8-byte string) fields, 
       trigger number. When that linedef is crossed, something happens to this
       sector - it goes up or down, etc...
 
-### [4-9-1]: Special Sector Types
+### \[4-9-1]: Special Sector Types
 These numbers control the way the lighting changes, and whether or not a player gets hurt while standing in the sector. -10/20% means that the player takes 20% damage at the end of every second that they are in the sector, except at skill 1, they take 10% damage. If the player has armor, then the damage is split between health and armor.
 
 For all the lighting effects, the brightness levels alternates between the value given for this sector, and the lowest value amongst all the sector's neighbors. Neighbor means a linedef has a side in each sector. If no neighbor sector has a lower light value, then there is no lighting effect. "blink off" means the light goes to the lower value for just a moment. "blink on" means the light is usually at the neighbor value, then jumps up to the normal value for a moment. "oscillate" means that the light level goes smoothly from one value to the other; it takes about 2 seconds to go from maximum to minimum and back (255 to 0 to 255).
@@ -816,3 +816,10 @@ The better way is to do the linedefs in order, keeping a dynamic list for every 
 ' this last loop is finished
 
 ```
+
+[4-2-1]: ../master/Chapter4.md
+[4-2-2]: ../master/Chapter4.md
+[4-3]: ../master/Chapter4.md
+[4-3-1]: ../master/Chapter4.md
+[4-3-2]: ../master/Chapter4.md
+[4-9-1]: ../master/Chapter4.md
