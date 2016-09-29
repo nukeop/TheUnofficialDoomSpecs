@@ -145,72 +145,72 @@ APPENDICES
 5. [Other helpful documents][A-5]
 6. [Acknowledgments][A-6]
 
-[1]: ../blob/master/README.md
-[1-1]: ../blob/master/README.md
-[1-2]: ../blob/master/README.md
+[1]: ../master/README.md
+[1-1]: ../master/README.md
+[1-2]: ../master/README.md
 
 
-[2]: ../blob/master/README.md
-[2-1]: ../blob/master/README.md
-[2-2]: ../blob/master/README.md
-[2-3]: ../blob/master/README.md
+[2]: ../master/README.md
+[2-1]: ../master/README.md
+[2-2]: ../master/README.md
+[2-3]: ../master/README.md
 
-[3]: ../blob/master/README.md
+[3]: ../master/README.md
 
-[4]: ../blob/master/README.md
-[4-1]: ../blob/master/README.md
-[4-2]: ../blob/master/README.md
-[4-2-1]: ../blob/master/README.md
-[4-2-2]: ../blob/master/README.md
-[4-2-3]: ../blob/master/README.md
-[4-3]: ../blob/master/README.md
-[4-3-1]: ../blob/master/README.md
-[4-3-2]: ../blob/master/README.md
-[4-4]: ../blob/master/README.md
-[4-5]: ../blob/master/README.md
-[4-6]: ../blob/master/README.md
-[4-7]: ../blob/master/README.md
-[4-8]: ../blob/master/README.md
-[4-9]: ../blob/master/README.md
-[4-9-1]: ../blob/master/README.md
-[4-10]: ../blob/master/README.md
-[4-11]: ../blob/master/README.md
+[4]: ../master/README.md
+[4-1]: ../master/README.md
+[4-2]: ../master/README.md
+[4-2-1]: ../master/README.md
+[4-2-2]: ../master/README.md
+[4-2-3]: ../master/README.md
+[4-3]: ../master/README.md
+[4-3-1]: ../master/README.md
+[4-3-2]: ../master/README.md
+[4-4]: ../master/README.md
+[4-5]: ../master/README.md
+[4-6]: ../master/README.md
+[4-7]: ../master/README.md
+[4-8]: ../master/README.md
+[4-9]: ../master/README.md
+[4-9-1]: ../master/README.md
+[4-10]: ../master/README.md
+[4-11]: ../master/README.md
 
-[5]: ../blob/master/README.md
-[5-1]: ../blob/master/README.md
+[5]: ../master/README.md
+[5-1]: ../master/README.md
 
-[6]: ../blob/master/README.md
-[6-1]: ../blob/master/README.md
+[6]: ../master/README.md
+[6-1]: ../master/README.md
 
-[7]: ../blob/master/README.md
-[7-1]: ../blob/master/README.md
-[7-2]: ../blob/master/README.md
-[7-3]: ../blob/master/README.md
-[7-4]: ../blob/master/README.md
-[7-5]: ../blob/master/README.md
+[7]: ../master/README.md
+[7-1]: ../master/README.md
+[7-2]: ../master/README.md
+[7-3]: ../master/README.md
+[7-4]: ../master/README.md
+[7-5]: ../master/README.md
 
-[8]: ../blob/master/README.md
-[8-1]: ../blob/master/README.md
-[8-2]: ../blob/master/README.md
-[8-3]: ../blob/master/README.md
-[8-4]: ../blob/master/README.md
-[8-4-1]: ../blob/master/README.md
-[8-4-2]: ../blob/master/README.md
-[8-5]: ../blob/master/README.md
-[8-6]: ../blob/master/README.md
-[8-6-1]: ../blob/master/README.md
+[8]: ../master/README.md
+[8-1]: ../master/README.md
+[8-2]: ../master/README.md
+[8-3]: ../master/README.md
+[8-4]: ../master/README.md
+[8-4-1]: ../master/README.md
+[8-4-2]: ../master/README.md
+[8-5]: ../master/README.md
+[8-6]: ../master/README.md
+[8-6-1]: ../master/README.md
 
-[9]: ../blob/master/README.md
+[9]: ../master/README.md
 
-[10]: ../blob/master/README.md
-[10-1]: ../blob/master/README.md
-[10-2]: ../blob/master/README.md
-[10-3]: ../blob/master/README.md
+[10]: ../master/README.md
+[10-1]: ../master/README.md
+[10-2]: ../master/README.md
+[10-3]: ../master/README.md
 
 
-[A-1]: ../blob/master/README.md
-[A-2]: ../blob/master/README.md
-[A-3]: ../blob/master/README.md
-[A-4]: ../blob/master/README.md
-[A-5]: ../blob/master/README.md
-[A-6]: ../blob/master/README.md
+[A-1]: ../master/README.md
+[A-2]: ../master/README.md
+[A-3]: ../master/README.md
+[A-4]: ../master/README.md
+[A-5]: ../master/README.md
+[A-6]: ../master/README.md
